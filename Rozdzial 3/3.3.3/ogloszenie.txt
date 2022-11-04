@@ -1,0 +1,8 @@
+Tytul
+Opis ogloszenia
+Kateogria
+Autor ogloszenia
+111222333
+email@email.com
+200
+0

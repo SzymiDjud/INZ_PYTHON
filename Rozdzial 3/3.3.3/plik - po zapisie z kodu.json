@@ -1,0 +1,64 @@
+{
+
+			"Tytul": "Tytul 1",
+			"Opis": "Opis 1",
+			"Kategoria": "Kategoria 1",
+			"Data": "2022-09-17",
+			"Autor": "Autor 1",
+			"Numer_Tel": "222111333",
+			"Email": "email1@email.com",
+			"Cena": "100",
+			"Wyswietlenia": "200"
+
+}
+{
+    "Tytul": "Tytul",
+    "Opis": "Opis",
+    "Kategoria": "Kategoria",
+    "Data": "Data",
+    "Autor": "Autor",
+    "Numer_Tel": "Numer tel",
+    "Email": "Email",
+    "Cena": "Cena",
+    "Wyswietlenia": "Wy\u015bwietlenia"
+}{
+    "Tytul": "Tytul 1",
+    "Opis": "Opis 1",
+    "Kategoria": "Kategoria 1",
+    "Data": "2022-09-17 00:00:00",
+    "Autor": "Autor 1",
+    "Numer_Tel": 111222333,
+    "Email": "email1@email.com",
+    "Cena": 100,
+    "Wyswietlenia": 500
+}{
+    "Tytul": "Tytul 2",
+    "Opis": "Opis 2",
+    "Kategoria": "Kategoria 2",
+    "Data": "2022-09-18 00:00:00",
+    "Autor": "Autor 2",
+    "Numer_Tel": 333222111,
+    "Email": "email2@email.com",
+    "Cena": 200,
+    "Wyswietlenia": 200
+}{
+    "Tytul": "Tytul 3",
+    "Opis": "Opis 3",
+    "Kategoria": "Kategoria 3",
+    "Data": "2022-09-19 00:00:00",
+    "Autor": "Autor 3",
+    "Numer_Tel": 222111333,
+    "Email": "email3@email.com",
+    "Cena": 300,
+    "Wyswietlenia": 100
+}{
+    "Tytul": "Tytul 4",
+    "Opis": "Opis 4",
+    "Kategoria": "Kategoria 4",
+    "Data": "2022-09-20 00:00:00",
+    "Autor": "Autor 4",
+    "Numer_Tel": "111222333",
+    "Email": "email4@email.com",
+    "Cena": 50,
+    "Wyswietlenia": 300
+}
