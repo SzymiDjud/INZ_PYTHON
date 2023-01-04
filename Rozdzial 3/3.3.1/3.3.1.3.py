@@ -1,3 +1,4 @@
-with open('ogloszenie.txt') as f:
+with open('ogloszenie2.txt') as f:
     for line in f.readlines():
         print(line)
+
