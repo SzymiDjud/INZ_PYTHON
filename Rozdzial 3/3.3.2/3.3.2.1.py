@@ -2,7 +2,6 @@ import openpyxl
 
 def openExcelFile():
     #Podaje lokalizacje pliku
-    global ogloszenia
     path = "plik.xlsx"
 
     #Otwieram plik excela
